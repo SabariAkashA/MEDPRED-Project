@@ -1,59 +1,61 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## Leveraging Deep Learning for Accurate Patient Medication Cost Forecasting
+This project develops a Feed Forward Neural Network–based model to predict patient medical costs using demographic, clinical, and administrative data, enabling accurate cost forecasting, improved hospital budgeting, efficient insurance claim processing, and enhanced transparency in healthcare financial planning.
 
 ## About
 <!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+This project focuses on predicting patient medical costs using a deep learning approach based on a Feed Forward Neural Network (FNN). By analyzing patient demographics, clinical information, treatment details, and hospital records, the system learns complex non-linear relationships to accurately forecast medical expenses. The model supports hospitals and insurance providers in budgeting, claim assessment, and decision-making while improving cost transparency for patients.
+
 
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Implements an advanced Feed Forward Neural Network (FNN) for accurate medical cost prediction.
+
+- Framework-based application with Streamlit for easy deployment and real-time usage.
+
+- Highly scalable to handle large healthcare datasets efficiently.
+
+- Reduced time complexity with fast and reliable predictions.
+
+- Data-driven prediction model with structured input–output processing for consistent and transparent results.
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+* Operating System: Requires a 64-bit OS such as Windows 10 or Ubuntu for compatibility with deep learning libraries.
+
+* Development Environment: Python 3.7 or later for implementing data preprocessing, model training, and deployment.
+
+* Deep Learning Frameworks: TensorFlow and Keras for building and training the Feed Forward Neural Network (FNN).
+
+* Data Processing Libraries: NumPy and Pandas for data manipulation and preprocessing.
+
+* Machine Learning Tools: Scikit-learn for feature encoding, scaling, and performance evaluation.
+
+* Deployment Framework: Streamlit for developing an interactive web-based prediction interface.
+
+* IDE: Visual Studio Code (VS Code) for coding, debugging, and project management.
+
+* Version Control: Git for source code management and collaborative development.
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
-
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
-
+<img width="770" height="287" alt="image" src="https://github.com/user-attachments/assets/cb63b33d-c15f-4f61-8c9e-1e214849f8f4" />
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Home Page
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+<img width="700" height="800" alt="Screenshot 2025-11-28 201427" src="https://github.com/user-attachments/assets/23bf5e58-7781-4b54-886e-bb47a724fed1" />
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
-
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
-
+#### Output2 - Cost
+<img width="700" height="800" alt="Screenshot 2025-11-28 201958" src="https://github.com/user-attachments/assets/edbdd5ba-d1d3-4f5c-9280-831d6bf75253" />
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+The proposed medical cost prediction system delivers accurate and reliable forecasts of patient treatment expenses using deep learning techniques. It supports hospitals and insurance providers in efficient budgeting and claim processing while improving cost transparency for patients, contributing to better financial planning and data-driven healthcare decision-making.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
-
-
+[1] M. A. Morid, O. R. L. Sheng, and B. Shams, “Supervised Learning Methods for Predicting Healthcare Costs: Systematic Literature Review and Empirical Evaluation,” AMIA Annual Symposium Proceedings, pp. 1234–1243, 2018.
+[2] K. F. Victor and I. Z. Michael, “Intelligent data analysis and machine learning: Are they really equivalent concepts?,” in Proc. 2017 Second Russia and Pacific Conf. on Computer Technology and Applications (RPC), Vladivostok, Russia, 2017, pp. 59–63, doi: 10.1109/RPC.2017.123456.
 
 
